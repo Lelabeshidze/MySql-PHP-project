@@ -1,0 +1,15 @@
+{
+    "name": "user/backend",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lelabeshidze",
+            "email": "94396022+Lelabeshidze@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
